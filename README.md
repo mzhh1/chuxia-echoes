@@ -47,7 +47,7 @@
 
 ## 🚀 Our Workflow (我们的工作流)
 
-我们的创作流程遵循以下四个核心步骤，详情请参阅我们的 **[项目Wiki](https://www.google.com/search?q=https://github.com/mzhh1/chuxia-echoes/wiki)**（请将链接指向你的Wiki）。
+我们的创作流程遵循以下四个核心步骤，详情请参阅我们的 **[项目Wiki](https://github.com/mzhh1/chuxia-echoes/wiki)**。
 
 1.  **概念与设定 (Concept & Lore)**: 故事先行。我们共同撰写世界观和每个角色的“灵魂”。
 2.  **数据集制作 (Dataset Creation)**: 使用ComfyUI、IPAdapter等工具，基于设定生成高质量、高一致性的角色图像。
