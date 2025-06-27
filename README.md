@@ -1,9 +1,4 @@
 # Echoes of Early Summer (初夏回响)
-[](https://www.google.com/search?q=https://github.com/mzhh1/chuxia-echoes/commits/main)
-
-> An open-source project building a virtual world and its characters, inspired by the feeling of early summer, using Stable Diffusion, ComfyUI, and LoRA.
-
-\<br\>
 
 > “在一个梦幻的初夏，春风萦绕着旧路，盛夏与高秋的洗礼将临。撷取一分春之朝气铭记，回响那年那月的时光与约定。”
 
@@ -68,4 +63,4 @@
 ## 🧑‍💻 Contributors (贡献者)
 
   * [@mzhh1](https://github.com/mzhh1)
-  * *待添加朋友的GitHub用户*
+  * *朋友的GitHub用户*
