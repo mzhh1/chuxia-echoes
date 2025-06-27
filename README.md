@@ -12,6 +12,7 @@
 
 我们使用ComfyUI作为主要工具，通过LoRA模型训练来确保角色形象的高度一致性和可塑性，并在这里记录下从概念诞生到最终成品的全过程。
 
+此处进入 **[项目Wiki](https://github.com/mzhh1/chuxia-echoes-wiki/wiki)**
 ## ✨ Getting Started (快速开始)
 
 想使用我们训练好的LoRA模型来创作吗？非常简单：
@@ -47,7 +48,7 @@
 
 ## 🚀 Our Workflow (我们的工作流)
 
-我们的创作流程遵循以下四个核心步骤，详情请参阅我们的 **[项目Wiki](https://github.com/mzhh1/chuxia-echoes/wiki)**。
+我们的创作流程遵循以下四个核心步骤，详情请参阅我们的 **[项目Wiki](https://github.com/mzhh1/chuxia-echoes-wiki/wiki)**。
 
 1.  **概念与设定 (Concept & Lore)**: 故事先行。我们共同撰写世界观和每个角色的“灵魂”。
 2.  **数据集制作 (Dataset Creation)**: 使用ComfyUI、IPAdapter等工具，基于设定生成高质量、高一致性的角色图像。
@@ -58,7 +59,7 @@
 
 这个项目目前是我们朋友间的私人企划，但我们欢迎任何形式的友好交流和技术探讨！如果你有任何建议，欢迎通过 [Issues](https://github.com/mzhh1/chuxia-echoes/issues) 与我们联系。
 
-关于详细的协作规范（如Git流程、文件命名等），请参与本项目的成员查阅 **[项目Wiki](https://github.com/mzhh1/chuxia-echoes/wiki)** 中的贡献指南。
+关于详细的协作规范（如Git流程、文件命名等），请参与本项目的成员查阅 **[项目Wiki](https://github.com/mzhh1/chuxia-echoes-wiki/wiki)** 中的贡献指南。
 
 ## 🧑‍💻 Contributors (贡献者)
 
