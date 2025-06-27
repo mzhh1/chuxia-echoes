@@ -1,2 +1,2 @@
-# 初夏回响 chuxia-echoes
-An open-source project building a virtual world and its characters, inspired by the feeling of early summer, using Stable Diffusion, ComfyUI, and LoRA.
+# 初夏回响
+在一个梦幻的初夏，春风萦绕着旧路，盛夏与高秋的洗礼将临。撷取一分春之朝气铭记，回响那年哪月的时光与约定。
