@@ -4,13 +4,13 @@
 
 ### **1. 基本信息**
 
-![图](http://124.221.145.212:35000/infobase/static/direct_links/a4fa91da64170af70b51cc1d6d0c83a2ff222e7ccc755026dbdb97e66fa42f21.png "图")
-
 * **姓名**: 琦霞 (Qí Xiá)
 * **称号**: 城市漫游者、彩虹踏手
 * **核心概念**: 爱玩与探索的灵魂
 * **代表色**: 珊瑚粉 (Coral Pink)
 * **关键词**: 活泼, 元气, 探索, 勇气, 乐于助人, 运动系, 姐姐
+
+![图](http://124.221.145.212:35000/infobase/static/direct_links/a4fa91da64170af70b51cc1d6d0c83a2ff222e7ccc755026dbdb97e66fa42f21.png "图")
 
 ### **2. 性格特质**
 
