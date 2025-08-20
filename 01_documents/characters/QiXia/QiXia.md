@@ -10,7 +10,7 @@
 * **代表色**: 珊瑚粉 (Coral Pink)
 * **关键词**: 活泼, 元气, 探索, 勇气, 乐于助人, 运动系, 姐姐
 
-![图](http://124.221.145.212:35000/infobase/static/direct_links/a4fa91da64170af70b51cc1d6d0c83a2ff222e7ccc755026dbdb97e66fa42f21.png "图")
+![main](./pictures/main.png "main")
 
 ### **2. 性格特质**
 

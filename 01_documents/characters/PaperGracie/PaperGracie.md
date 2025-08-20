@@ -10,7 +10,7 @@
 * **代表色**: 纸灰色 (Paper Gray)、薰衣草紫 (Lavender Purple)  
 * **关键词**: 可爱, 知性, 活泼, 渴望认可, 逻辑, 好奇心, 小小学者
 
-![图](http://124.221.145.212:35000/infobase/static/direct_links/308a722616ef9dd78c41d724c6212a54ae9f1bb7e44f22a71be223675857c832.png "图")
+![main](./pictures/main.png "main")
 
 ### **2\. 性格特质**
 

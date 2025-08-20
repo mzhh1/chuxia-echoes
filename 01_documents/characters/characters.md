@@ -6,7 +6,7 @@
 
 ---
 
-### !!!以下为初版人物设计,具体请参照角色个人设定集[琦霞的设定集](./QiXia.md)//[纸灰灰的设定集](./PaperGracie.md)
+### !!!以下为初版人物设计,具体请参照角色个人设定集[琦霞的设定集](./QiXia/QiXia.md)//[安柴的设定集](./AnChai/AnChai.md)//[纸灰灰的设定集](./PaperGracie/PaperGracie.md)
 
 ## **人物关系与年龄**
 
