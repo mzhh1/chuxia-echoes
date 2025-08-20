@@ -99,7 +99,7 @@
 如果你是第一次参与，不知道从何下手，可以参考下面的路径：
 
 1. **熟悉项目与教程**:  
-   * 花点时间通读 [**主文档入口**](https://github.com/mzhh1/chuxia-echoes/blob/main/01_documents/README.md)，理解“瞬时之城”的世界观和核心角色。  
+   * 花点时间通读 [主文档入口](https://github.com/mzhh1/chuxia-echoes/blob/main/01_documents/README.md)，理解“瞬时之城”的世界观和核心角色。  
    * 浏览本指南中提到的教程链接，确保你对 Markdown 和 ComfyUI 有基本了解。  
 2. 开始创作 (推荐从角色入手):  
    角色的灵魂是故事的核心。我们建议从为角色注入生命开始：  
