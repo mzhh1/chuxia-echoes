@@ -31,7 +31,7 @@
 
 * **琦霞(Qi Xia)**：姐姐。爱玩与探索的灵魂，充满好奇心和活力，总能在普通事物中发现有趣的可能性。[琦霞的设定集](./characters/QiXia/QiXia.md)
 * **纸灰灰(Paper Gracie)**：妹妹。理解与思考的智慧，有着敏锐的观察力和逻辑思维，喜欢探索事物的本质和规律。[纸灰灰的设定集](./characters/PaperGracie/PaperGracie.md)
-* **安柴**：弟弟。记录与感受的心灵，拥有极其敏锐的感知力，能够捕捉转瞬即逝的美好。(./characters/AnChai/AnChai.md)
+* **安柴**：弟弟。记录与感受的心灵，拥有极其敏锐的感知力，能够捕捉转瞬即逝的美好。[安柴的设定集](./characters/AnChai/AnChai.md)
 
 ## **故事**
 
