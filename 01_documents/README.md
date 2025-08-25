@@ -41,7 +41,7 @@
     定位: 她是团队的引擎与规划师。她的核心驱动力是无穷的好奇心，既渴望理解世界的规律，也热衷于体验未知的新鲜事物。她是绝大多数冒险的发起者。
 
     关键词: 探索, 智慧, 计划, 渴望认可, 活泼。
-    [纸灰灰的设定集](./characters/QiXia/QiXia.md)
+    [纸灰灰的设定集](./characters/PaperGracie/PaperGracie.md)
 
 * **安柴(An Chai)**：弟弟。沉静的记录者 (The Silent Chronicler)
 
