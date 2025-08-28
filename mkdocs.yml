@@ -1,0 +1,51 @@
+# 网站基础信息
+site_name: '初夏回响 - 项目文档'
+site_author: 'devuser' # 你可以改成你的名字
+
+# 【核心配置】告诉 MkDocs 你的文档目录在哪里
+docs_dir: '01_documents' 
+
+# 主题配置 (使用我们之前讨论的 Material for MkDocs)
+theme:
+  name: material
+  language: zh
+  palette:
+    - scheme: default
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/weather-sunny
+        name: 切换到夜间模式
+    - scheme: slate
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: 切换到日间模式
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+    - search.suggest
+
+# 【导航配置】根据你的目录结构来规划网站导航
+nav:
+  - '首页': 'README.md'
+  - '世界观': 'WorldView.md'
+  - '登场角色':
+    - '角色索引': 'characters/characters.md'
+    - '安柴': 'characters/AnChai/AnChai.md'
+    - '纸灰灰': 'characters/PaperGracie/PaperGracie.md'
+    - '琦霞': 'characters/QiXia/QiXia.md'
+  - '日常故事':
+    - '索引': 'daily_stories/README.md'
+    - '五点彩虹桥时': 'daily_stories/001_rainbow_bridge.md'
+    - '晨雾启明': 'daily_stories/002_morning_mist.md'
+    - '三点骤雨': 'daily_stories/003_sudden_rain.md'
+    - '七点晚霞盛宴': 'daily_stories/004_evening_glow.md'
+  - '番外故事': 
+    - '索引': 'external_stories/README.md'
+    - '漫步江南': 'external_stories/001_漫步江南/001_漫步江南.md'
+  - '写作规范': 'guidelines/guidelines.md'
+
+dev_addr: '0.0.0.0:55080' 
