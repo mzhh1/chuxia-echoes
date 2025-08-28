@@ -1,5 +1,5 @@
 # 网站基础信息
-site_name: '初夏回响 - 项目文档'
+site_name: '初夏回响'
 site_author: 'devuser' # 你可以改成你的名字
 
 # 【核心配置】告诉 MkDocs 你的文档目录在哪里
@@ -46,6 +46,6 @@ nav:
   - '番外故事': 
     - '索引': 'external_stories/README.md'
     - '漫步江南': 'external_stories/001_漫步江南/001_漫步江南.md'
-  - '写作规范': 'guidelines/guidelines.md'
+  - '创作指南': 'guidelines/guidelines.md'
 
 dev_addr: '0.0.0.0:55080' 
