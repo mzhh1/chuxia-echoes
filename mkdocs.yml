@@ -27,6 +27,8 @@ theme:
     - navigation.top
     - content.code.copy
     - search.suggest
+    # 这一行就是控制图片懒加载的，但因为是默认值，所以通常不需要写
+    - content.image.lazy
 
 # 【导航配置】根据你的目录结构来规划网站导航
 nav:
