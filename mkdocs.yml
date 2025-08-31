@@ -1,11 +1,11 @@
 # 网站基础信息
 site_name: '初夏回响'
-site_author: 'devuser' # 你可以改成你的名字
+site_author: 'devuser'
 
 # 【核心配置】告诉 MkDocs 你的文档目录在哪里
 docs_dir: '01_documents' 
 
-# 主题配置 (使用我们之前讨论的 Material for MkDocs)
+# 主题配置
 theme:
   name: material
   language: zh
@@ -27,10 +27,11 @@ theme:
     - navigation.top
     - content.code.copy
     - search.suggest
-    # 这一行就是控制图片懒加载的，但因为是默认值，所以通常不需要写
     - content.image.lazy
+    - navigation.drawer
+    - navigation.expand
 
-# 【导航配置】根据你的目录结构来规划网站导航
+# 【导航配置】
 nav:
   - '首页': 'README.md'
   - '世界观': 'WorldView.md'
@@ -50,4 +51,16 @@ nav:
     - '漫步江南': 'external_stories/001_漫步江南/001_漫步江南.md'
   - '创作指南': 'guidelines/guidelines.md'
 
-dev_addr: '0.0.0.0:55080' 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+      toc_depth: 4
+
+dev_addr: '0.0.0.0:55080'
