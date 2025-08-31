@@ -35,39 +35,23 @@
 
 ### **角色概览**
 
-姐姐年龄=弟弟年龄+1=妹妹年龄+2
+* **琦霞(Qi Xia)：**  
+  定位: 贪玩的守护者  
+  关键词: 守护, 贪玩, 担当  
 
-少年，少女
+  [琦霞的设定集](./characters/QiXia/QiXia.md)  
 
-* **琦霞(Qi Xia)：**
-    
-    **姐姐：贪玩的守护者 (The Playful Guardian)**
+* **安柴(An Chai)：**  
+  定位: 沉静的记录者  
+  关键词: 感受, 记录, 安静  
 
-    定位: 她是团队的保护壳与气氛催化剂。她的核心驱动力是在确保家人安全的前提下，尽情享受当下的快乐。她不一定是冒险的发起者，但她一定是让冒险过程变得更有趣、更安全的人。
+  [安柴的设定集](./characters/AnChai/AnChai.md)  
 
-    关键词: 守护, 贪玩, 担当, 偶尔腹黑, 活力。
+* **纸灰灰(Paper Gracie)：**  
+  定位: 好奇的探险家  
+  关键词: 探索, 智慧, 计划  
 
-    [琦霞的设定集](./characters/QiXia/QiXia.md)
-
-* **安柴(An Chai)：**
-
-    **弟弟：沉静的记录者 (The Silent Chronicler)**
-
-    定位: 他是团队的眼睛与心脏。他的核心驱动力是捕捉和留存那些转瞬即逝的美与情感。他为家人的冒险赋予了深度和温度，是他们共同记忆的守护者。
-
-    关键词: 感受, 记录, 安静, 敏感, 依赖。
-
-    [安柴的设定集](./characters/AnChai/AnChai.md)
-
-* **纸灰灰(Paper Gracie)：**
-
-    **妹妹：好奇的探险家 (The Curious Explorer)**
-
-    定位: 她是团队的引擎与规划师。她的核心驱动力是无穷的好奇心，既渴望理解世界的规律，也热衷于体验未知的新鲜事物。她是绝大多数冒险的发起者。
-
-    关键词: 探索, 智慧, 计划, 渴望认可, 活泼。
-
-    [纸灰灰的设定集](./characters/PaperGracie/PaperGracie.md)
+  [纸灰灰的设定集](./characters/PaperGracie/PaperGracie.md)
 
 
 ## **故事**
@@ -80,13 +64,7 @@
 
 **已收录故事：**
 
-* [彩虹桥时](./daily_stories/001_rainbow_bridge.md) - 五点彩虹桥的奇妙体验
-
-* [晨雾启明](./daily_stories/002_morning_mist.md) - 城市苏醒时的探索
-
-* [三点骤雨](./daily_stories/003_sudden_rain.md) - 温柔太阳雨中的发现
-
-* [七点晚霞](./daily_stories/004_evening_glow.md) - 城市消融前的最后时光
+[第一回初夏·三幕：雨日手帖](第一回初夏·三幕：雨日手帖.md)
 
 ### **外部故事集**
 

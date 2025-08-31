@@ -4,8 +4,44 @@
 
 你们是这座城市的原生居民，是亲密无间的朋友与家人。你们的友谊与亲情，是这座城市中唯一不变的"永恒地标"。
 
----
+### **角色概览**
 
-[琦霞的设定集](./QiXia/QiXia.md)//[安柴的设定集](./AnChai/AnChai.md)//[纸灰灰的设定集](./PaperGracie/PaperGracie.md)
+姐姐年龄=弟弟年龄+1=妹妹年龄+2
 
+少年，少女
 
+* **琦霞(Qi Xia)：**
+    
+    **姐姐：贪玩的守护者 (The Playful Guardian)**
+
+    定位: 她是团队的保护壳与气氛催化剂。她的核心驱动力是在确保家人安全的前提下，尽情享受当下的快乐。她不一定是冒险的发起者，但她一定是让冒险过程变得更有趣、更安全的人。
+
+    关键词: 守护, 贪玩, 担当, 偶尔腹黑, 活力。
+
+    [琦霞的设定集](./characters/QiXia/QiXia.md)
+    
+    [角色语音](./characters/QiXia/voice.md)
+
+* **安柴(An Chai)：**
+
+    **弟弟：沉静的记录者 (The Silent Chronicler)**
+
+    定位: 他是团队的眼睛与心脏。他的核心驱动力是捕捉和留存那些转瞬即逝的美与情感。他为家人的冒险赋予了深度和温度，是他们共同记忆的守护者。
+
+    关键词: 感受, 记录, 安静, 敏感, 依赖。
+
+    [安柴的设定集](./characters/AnChai/AnChai.md)
+
+    [角色语音](./characters/AnChai/voice.md)
+
+* **纸灰灰(Paper Gracie)：**
+
+    **妹妹：好奇的探险家 (The Curious Explorer)**
+
+    定位: 她是团队的引擎与规划师。她的核心驱动力是无穷的好奇心，既渴望理解世界的规律，也热衷于体验未知的新鲜事物。她是绝大多数冒险的发起者。
+
+    关键词: 探索, 智慧, 计划, 渴望认可, 活泼。
+
+    [纸灰灰的设定集](./characters/PaperGracie/PaperGracie.md)
+
+    [角色语音](./characters/PaperGracie/voice.md)

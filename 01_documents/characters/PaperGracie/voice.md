@@ -1,5 +1,7 @@
 ### 语音
 
+[纸灰灰的设定集](./characters/PaperGracie/PaperGracie.md)
+
 #### 初次见面
 
 我是纸灰灰。认识你真好。来一起玩耍，讨论问题，探索世界吧！
