@@ -2,7 +2,7 @@
 
 "我们在此相遇，在每一个似曾相识的初夏，回响着属于我们的时光与约定。"
 
-你们是这座城市的原生居民，是亲密无间的朋友与家人。你们的友谊与亲情，是这座城市中唯一不变的"永恒地标"。
+他们是这座城市的原生居民，是亲密无间的朋友与家人。他们的友谊与亲情，是这座城市中唯一不变的"永恒地标"。
 
 ### **角色概览**
 
@@ -18,9 +18,9 @@
 
     关键词: 守护, 贪玩, 担当, 偶尔腹黑, 活力。
 
-    [琦霞的设定集](./characters/QiXia/QiXia.md)
+    [琦霞的设定集](./QiXia/QiXia.md)
     
-    [角色语音](./characters/QiXia/voice.md)
+    [角色语音](./QiXia/voice.md)
 
 * **安柴(An Chai)：**
 
@@ -30,9 +30,9 @@
 
     关键词: 感受, 记录, 安静, 敏感, 依赖。
 
-    [安柴的设定集](./characters/AnChai/AnChai.md)
+    [安柴的设定集](./AnChai/AnChai.md)
 
-    [角色语音](./characters/AnChai/voice.md)
+    [角色语音](./AnChai/voice.md)
 
 * **纸灰灰(Paper Gracie)：**
 
@@ -42,6 +42,6 @@
 
     关键词: 探索, 智慧, 计划, 渴望认可, 活泼。
 
-    [纸灰灰的设定集](./characters/PaperGracie/PaperGracie.md)
+    [纸灰灰的设定集](./PaperGracie/PaperGracie.md)
 
-    [角色语音](./characters/PaperGracie/voice.md)
+    [角色语音](./PaperGracie/voice.md)

@@ -1,6 +1,6 @@
 ### 语音
 
-[安柴的设定集](./characters/AnChai/AnChai.md)
+[安柴的设定集](../AnChai/AnChai.md)
 
 #### 初次见面
 

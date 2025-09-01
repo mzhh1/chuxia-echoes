@@ -1,6 +1,6 @@
 ### 语音
 
-[纸灰灰的设定集](./characters/PaperGracie/PaperGracie.md)
+[纸灰灰的设定集](../PaperGracie/PaperGracie.md)
 
 #### 初次见面
 

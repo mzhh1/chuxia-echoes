@@ -1,6 +1,6 @@
 ### 语音
 
-[琦霞的设定集](./characters/QiXia/QiXia.md)
+[琦霞的设定集](../QiXia/QiXia.md)
 
 #### 初次见面
 我是琦霞！（笑）
