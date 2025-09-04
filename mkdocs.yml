@@ -45,6 +45,9 @@ nav:
   - '番外故事': 
     - '索引': 'external_stories/README.md'
     - '漫步江南': 'external_stories/001_漫步江南/001_漫步江南.md'
+  - '永恒刻印':
+    - '刻印索引': 'permanent_imprints/README.md'
+    - '⭐光尘笔记⭐': 'permanent_imprints/Light_Dust_Notes/README.md'
   - '创作指南': 'guidelines/guidelines.md'
 
 markdown_extensions:
